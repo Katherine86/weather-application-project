@@ -46,6 +46,16 @@ a {
   justify-content: space-between;
 }
 
+#humidity {
+  color: #6ecff0;
+  font-weight: bolder;
+}
+
+#percentage-sign {
+  color: #6ecff0;
+  font-weight: bolder;
+}
+
 main {
   padding: 30px 0;
 }
